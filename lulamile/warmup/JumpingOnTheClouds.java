@@ -1,6 +1,7 @@
+package lulamile.warmup;
+
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
+
 class JumpingOnTheClouds{
     public static int jumpingOnClouds(List<Integer> c) {
         // Write your code here

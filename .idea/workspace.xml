@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="27e3b3ca-64de-4ff5-8e6b-6ea31717dea2" name="Changes" comment="" />
+    <list default="true" id="27e3b3ca-64de-4ff5-8e6b-6ea31717dea2" name="Changes" comment="Completed Repeated string problem" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -18,8 +31,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.RepeatedString.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "warm-up-problems",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -32,6 +48,57 @@
       <option name="presentableId" value="Default" />
       <updated>1708454999842</updated>
     </task>
+    <task id="LOCAL-00001" summary="Completed sales by match problem">
+      <option name="closed" value="true" />
+      <created>1708455604116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708455604116</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Completed counting valleys problem">
+      <option name="closed" value="true" />
+      <created>1708455819185</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708455819185</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Completed Jumping on the clouds problem">
+      <option name="closed" value="true" />
+      <created>1708455900452</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708455900452</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Completed Repeated string problem">
+      <option name="closed" value="true" />
+      <created>1708455962108</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708455962108</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed sales by match problem" />
+    <MESSAGE value="Completed counting valleys problem" />
+    <MESSAGE value="Completed Jumping on the clouds problem" />
+    <MESSAGE value="Completed Repeated string problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Repeated string problem" />
   </component>
 </project>

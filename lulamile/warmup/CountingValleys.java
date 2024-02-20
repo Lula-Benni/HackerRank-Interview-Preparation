@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package lulamile.warmup;
 
 public class CountingValleys {
     public static int countingValleys(int steps, String path) {

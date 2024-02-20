@@ -1,3 +1,5 @@
+package lulamile.warmup;
+
 class RepeatedString {
     public static long countRepeats(String s){
         char[] str = s.toCharArray();
